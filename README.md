@@ -25,4 +25,6 @@ Within each of these folders there are folders of images such as: `dress`, `hat`
 * `Python`.
 * `Jupyter Notebooks`.
 
+###  TODO
 
+Need to upload image data.
