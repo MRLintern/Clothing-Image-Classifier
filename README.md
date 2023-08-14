@@ -25,6 +25,10 @@ Within each of these folders there are folders of images such as: `dress`, `hat`
 * `Python`.
 * `Jupyter Notebooks`.
 
-###  TODO
+### Instructions
 
-Need to upload image data.
+`$ git clone https://github.com/MRLintern/Image-Classifier.git`
+`$ cd Image-Classifier`
+`$ jupyter notebook`
+
+Instead of running the provided notebooks, copy/write in the code into the cells and run.
