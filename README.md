@@ -32,3 +32,6 @@ Within each of these folders there are folders of images such as: `dress`, `hat`
 
 Instead of running the notebooks, copy/write in the code into each cell and run.
 
+### TODO
+
+Add the generated `.h5` files and `svg` images from the processing.
