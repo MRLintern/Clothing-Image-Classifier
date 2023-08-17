@@ -32,5 +32,3 @@ Within each of these folders there are folders of images such as: `dress`, `hat`
 
 Instead of running the notebooks, copy/write in the code into each cell and run.
 
-### TODO
-Provide better notes for notebooks. Some notebooks will need running again to generate data for saving; not loaded in this repo. 
