@@ -13,7 +13,6 @@ The model used for this type of problem is a **Convolution Neural Network**.
 
 ### Dataset
 
-This is included with the project. Its an old dataset thats been sitting on my Machine for a long time so I can't remember where I got it; probably Kaggle.
 The dataset consists of 3 folders: `test`, `train` and `validation`.
 Within each of these folders there are folders of images such as: `dress`, `hat`, `shirt`, etc.
 
