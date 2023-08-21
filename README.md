@@ -31,9 +31,3 @@ Within each of these folders there are folders of images such as: `dress`, `hat`
  * `$ jupyter notebook`
 
 Instead of running the notebooks, copy/write in the code into each cell and run.
-
-### TODO
-
-Add the generated `.h5` files and `svg` images from the processing.
-Currently in the process of updating the clothing-classification-model-training notebook.
-Once the above is done, the generated `.h5` files and `svg` images from the processing will be added.
