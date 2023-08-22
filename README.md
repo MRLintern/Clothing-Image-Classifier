@@ -4,7 +4,7 @@ This project looks at classifying various items of clothing from images; not par
 
 ### Introduction
 
-We imagine that we work at an online fashion marketplace.
+We imagine that we work for an online fashion marketplace.
 Users upload thousands of images of clothes to sell every day.
 The key task here is to help users create listings faster by automatically recommending
 the right cateogory for the clothes they wish to sell.
