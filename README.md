@@ -28,6 +28,5 @@ Within each of these folders there are folders of images such as: `dress`, `hat`
 ### Instructions
 
  * `$ git clone https://github.com/MRLintern/Image-Classifier.git && cd Image-Classifier`
- * `$ jupyter notebook`
+ * `$ jupyter notebook`. Starting from the top, run each cell at a time.
 
-Instead of running the notebooks, copy/write the code into each cell and run.
